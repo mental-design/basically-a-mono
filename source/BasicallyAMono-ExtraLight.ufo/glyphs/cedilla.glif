@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance width="980"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="440" y="-90" type="line"/>
+      <point x="470" y="-90" type="line"/>
+      <point x="503.1149012" y="-90.0"/>
+      <point x="530.0" y="-116.88509879999998"/>
+      <point x="530.0" y="-150.0" type="curve" smooth="yes"/>
+      <point x="530.0" y="-183.1149012"/>
+      <point x="503.1149012" y="-210.0"/>
+      <point x="470.0" y="-210.0" type="curve"/>
+      <point x="390" y="-210" type="line"/>
+      <point x="390" y="-270" type="line"/>
+      <point x="470" y="-270" type="line"/>
+      <point x="536.2298024" y="-270.0"/>
+      <point x="590.0" y="-216.22980239999998"/>
+      <point x="590.0" y="-150.0" type="curve" smooth="yes"/>
+      <point x="590.0" y="-94.1276114781264"/>
+      <point x="551.7325794509719" y="-47.12253157771655"/>
+      <point x="500" y="-33.790283203125" type="curve"/>
+      <point x="500" y="60" type="line"/>
+      <point x="440" y="60" type="line"/>
+    </contour>
+  </outline>
+</glyph>

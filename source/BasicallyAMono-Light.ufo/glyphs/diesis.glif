@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diesis" format="2">
+  <advance width="980"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="115" y="255" type="line"/>
+      <point x="445" y="255" type="line"/>
+      <point x="445" y="-105" type="line"/>
+      <point x="535" y="-105" type="line"/>
+      <point x="535" y="255" type="line"/>
+      <point x="865" y="255" type="line"/>
+      <point x="865" y="345" type="line"/>
+      <point x="535" y="345" type="line"/>
+      <point x="535" y="705" type="line"/>
+      <point x="865" y="705" type="line"/>
+      <point x="865" y="795" type="line"/>
+      <point x="535" y="795" type="line"/>
+      <point x="535" y="1155" type="line"/>
+      <point x="445" y="1155" type="line"/>
+      <point x="445" y="795" type="line"/>
+      <point x="115" y="795" type="line"/>
+      <point x="115" y="705" type="line"/>
+      <point x="445" y="705" type="line"/>
+      <point x="445" y="345" type="line"/>
+      <point x="115" y="345" type="line"/>
+    </contour>
+  </outline>
+</glyph>

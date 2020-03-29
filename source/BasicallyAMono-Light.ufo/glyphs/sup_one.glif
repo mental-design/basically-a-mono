@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sup_one" format="2">
+  <advance width="980"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="268.125" y="442.5" type="line"/>
+      <point x="711.875" y="442.5" type="line"/>
+      <point x="711.875" y="523.5" type="line"/>
+      <point x="530.5" y="523.5" type="line"/>
+      <point x="530.5" y="1155" type="line"/>
+      <point x="449.5" y="1155" type="line"/>
+      <point x="268.125" y="1051.545524597168" type="line"/>
+      <point x="268.125" y="958.2953948974609" type="line"/>
+      <point x="449.5" y="1061.749870300293" type="line"/>
+      <point x="449.5" y="523.5" type="line"/>
+      <point x="268.125" y="523.5" type="line"/>
+    </contour>
+  </outline>
+</glyph>

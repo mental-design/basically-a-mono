@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="invertedexclam" format="2">
+  <advance width="980"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="340.0" y="660.0" type="curve" smooth="yes"/>
+      <point x="340.0" y="577.212747"/>
+      <point x="407.212747" y="510.0"/>
+      <point x="490.0" y="510.0" type="curve" smooth="yes"/>
+      <point x="572.787253" y="510.0"/>
+      <point x="640.0" y="577.212747"/>
+      <point x="640.0" y="660.0" type="curve" smooth="yes"/>
+      <point x="640.0" y="742.787253"/>
+      <point x="572.787253" y="810.0"/>
+      <point x="490.00000000000006" y="810.0" type="curve" smooth="yes"/>
+      <point x="407.21274700000004" y="810.0"/>
+      <point x="340.0" y="742.787253"/>
+    </contour>
+    <contour>
+      <point x="580.0" y="434.0" type="line"/>
+      <point x="400.0" y="434.0" type="line"/>
+      <point x="399.9999999999999" y="-420.0" type="line"/>
+      <point x="579.9999999999999" y="-420.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

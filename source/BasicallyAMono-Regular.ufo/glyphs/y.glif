@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <advance width="980"/>
+  <unicode hex="0079"/>
+  <outline>
+    <contour>
+      <point x="206.19478607177734" y="-480" type="line"/>
+      <point x="337.98189544677734" y="-480" type="line"/>
+      <point x="910" y="780" type="line"/>
+      <point x="778.212890625" y="780" type="line"/>
+      <point x="490" y="145.14554595947266" type="line"/>
+      <point x="201.787109375" y="780" type="line"/>
+      <point x="70" y="780" type="line"/>
+      <point x="424.1064453125" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SIGMA" format="2">
+  <advance width="980"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="85" y="-15" type="line"/>
+      <point x="895" y="-15" type="line"/>
+      <point x="895" y="135" type="line"/>
+      <point x="294.4505157470703" y="135" type="line"/>
+      <point x="733" y="585" type="line"/>
+      <point x="294.4505157470703" y="1035" type="line"/>
+      <point x="895" y="1035" type="line"/>
+      <point x="895" y="1185" type="line"/>
+      <point x="85" y="1185" type="line"/>
+      <point x="85" y="1035" type="line"/>
+      <point x="523.5494842529297" y="585" type="line"/>
+      <point x="85" y="135" type="line"/>
+    </contour>
+  </outline>
+</glyph>

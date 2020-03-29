@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E_with_grave" format="2">
+  <advance width="980"/>
+  <unicode hex="00C8"/>
+  <outline>
+    <contour>
+      <point x="577.3841991198393" y="1320.0" type="line"/>
+      <point x="430.28327679101903" y="1580.0" type="line"/>
+      <point x="285.51487855134053" y="1580.0" type="line"/>
+      <point x="432.6158008801607" y="1320.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="-30" type="line"/>
+      <point x="925" y="-30" type="line"/>
+      <point x="925" y="150" type="line"/>
+      <point x="265" y="150" type="line"/>
+      <point x="265" y="495" type="line"/>
+      <point x="865" y="495" type="line"/>
+      <point x="865" y="675" type="line"/>
+      <point x="265" y="675" type="line"/>
+      <point x="265" y="1020" type="line"/>
+      <point x="925" y="1020" type="line"/>
+      <point x="925" y="1200" type="line"/>
+      <point x="85" y="1200" type="line"/>
+    </contour>
+  </outline>
+</glyph>

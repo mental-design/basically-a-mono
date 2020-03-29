@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophe" format="2">
+  <advance width="980"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="432.6537170410156" y="780" type="line"/>
+      <point x="480.04861717505946" y="862.0903733152952"/>
+      <point x="505.0" y="955.2102017370751"/>
+      <point x="505.0" y="1050.0" type="curve"/>
+      <point x="505" y="1125" type="line"/>
+      <point x="475" y="1125" type="line"/>
+      <point x="475" y="1050" type="line"/>
+      <point x="475.00000000000006" y="960.4763016405709"/>
+      <point x="451.4348051097783" y="872.529797020001"/>
+      <point x="406.6729559300638" y="795.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

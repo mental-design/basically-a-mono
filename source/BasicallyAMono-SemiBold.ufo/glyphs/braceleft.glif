@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="2">
+  <advance width="980"/>
+  <unicode hex="007B"/>
+  <outline>
+    <contour>
+      <point x="400" y="70" type="line"/>
+      <point x="400.0" y="-84.53620559999999"/>
+      <point x="525.4637944" y="-210.0"/>
+      <point x="680.0" y="-210.0" type="curve"/>
+      <point x="820" y="-210" type="line"/>
+      <point x="820" y="-30" type="line"/>
+      <point x="680" y="-30" type="line"/>
+      <point x="624.808498" y="-30.0"/>
+      <point x="580.0" y="14.808498000000014"/>
+      <point x="580.0" y="70.00000000000001" type="curve"/>
+      <point x="580" y="395" type="line"/>
+      <point x="580.0" y="468.31213047284564"/>
+      <point x="551.7635815441685" y="535.0813313930744"/>
+      <point x="505.58203887939453" y="585.000846862793" type="curve"/>
+      <point x="551.7635815441683" y="634.9186686069256"/>
+      <point x="579.9999999999999" y="701.6878695271544"/>
+      <point x="579.9999999999999" y="775.0" type="curve"/>
+      <point x="580" y="1100" type="line"/>
+      <point x="580.0" y="1155.191502"/>
+      <point x="624.808498" y="1200.0"/>
+      <point x="680.0" y="1200.0" type="curve"/>
+      <point x="820" y="1200" type="line"/>
+      <point x="820" y="1380" type="line"/>
+      <point x="680" y="1380" type="line"/>
+      <point x="525.4637944" y="1380.0"/>
+      <point x="400.0" y="1254.5362056000001"/>
+      <point x="400.0" y="1100.0" type="curve"/>
+      <point x="400" y="775" type="line"/>
+      <point x="400.0" y="719.808498"/>
+      <point x="355.191502" y="675.0"/>
+      <point x="300.0" y="675.0" type="curve"/>
+      <point x="160" y="675" type="line"/>
+      <point x="160" y="495" type="line"/>
+      <point x="300" y="495" type="line"/>
+      <point x="355.191502" y="495.0"/>
+      <point x="400.0" y="450.191502"/>
+      <point x="400.0" y="395.0" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

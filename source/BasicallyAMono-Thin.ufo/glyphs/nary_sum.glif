@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nary_sum" format="2">
+  <advance width="980"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="145" y="-225" type="line"/>
+      <point x="145" y="-255" type="line"/>
+      <point x="835" y="-255" type="line"/>
+      <point x="835" y="-225" type="line"/>
+      <point x="183.02379608154297" y="-225" type="line"/>
+      <point x="697" y="435" type="line"/>
+      <point x="183.02379608154297" y="1095" type="line"/>
+      <point x="835" y="1095" type="line"/>
+      <point x="835" y="1125" type="line"/>
+      <point x="145" y="1125" type="line"/>
+      <point x="145" y="1095" type="line"/>
+      <point x="658.976203918457" y="435" type="line"/>
+    </contour>
+  </outline>
+</glyph>

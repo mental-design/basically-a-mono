@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primedbl" format="2">
+  <advance width="980"/>
+  <unicode hex="2033"/>
+  <outline>
+    <contour>
+      <point x="514.5750512390237" y="710.0" type="line"/>
+      <point x="700.9247637128385" y="710.0" type="line"/>
+      <point x="805.4249487609763" y="1100.0" type="line"/>
+      <point x="619.0752362871615" y="1100.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="174.5750512390236" y="710.0" type="line"/>
+      <point x="360.9247637128385" y="710.0" type="line"/>
+      <point x="465.4249487609764" y="1100.0" type="line"/>
+      <point x="279.07523628716143" y="1100.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E_with_macron" format="2">
+  <advance width="980"/>
+  <unicode hex="0112"/>
+  <outline>
+    <contour>
+      <point x="275.0" y="1245.0" type="line"/>
+      <point x="735.0" y="1245.0" type="line"/>
+      <point x="735.0" y="1275.0" type="line"/>
+      <point x="275.0" y="1275.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="45" type="line"/>
+      <point x="850" y="45" type="line"/>
+      <point x="850" y="75" type="line"/>
+      <point x="190" y="75" type="line"/>
+      <point x="190" y="570" type="line"/>
+      <point x="790" y="570" type="line"/>
+      <point x="790" y="600" type="line"/>
+      <point x="190" y="600" type="line"/>
+      <point x="190" y="1095" type="line"/>
+      <point x="850" y="1095" type="line"/>
+      <point x="850" y="1125" type="line"/>
+      <point x="160" y="1125" type="line"/>
+    </contour>
+  </outline>
+</glyph>

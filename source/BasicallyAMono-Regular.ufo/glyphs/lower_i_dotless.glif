@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lower_i_dotless" format="2">
+  <advance width="980"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="155" y="0" type="line"/>
+      <point x="855" y="0" type="line"/>
+      <point x="855" y="120" type="line"/>
+      <point x="595" y="120" type="line"/>
+      <point x="595" y="780" type="line"/>
+      <point x="195" y="780" type="line"/>
+      <point x="195" y="660" type="line"/>
+      <point x="475" y="660" type="line"/>
+      <point x="475" y="120" type="line"/>
+      <point x="155" y="120" type="line"/>
+    </contour>
+  </outline>
+</glyph>

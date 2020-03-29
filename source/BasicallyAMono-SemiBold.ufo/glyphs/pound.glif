@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pound" format="2">
+  <advance width="980"/>
+  <unicode hex="00A3"/>
+  <outline>
+    <contour>
+      <point x="70" y="-30" type="line"/>
+      <point x="910" y="-30" type="line"/>
+      <point x="910" y="150" type="line"/>
+      <point x="370" y="150" type="line"/>
+      <point x="370" y="458" type="line"/>
+      <point x="730" y="458" type="line"/>
+      <point x="730" y="602" type="line"/>
+      <point x="370" y="602" type="line"/>
+      <point x="370" y="840" type="line"/>
+      <point x="370.0" y="939.3447036"/>
+      <point x="450.6552964" y="1020.0"/>
+      <point x="550.0" y="1020.0" type="curve" smooth="yes"/>
+      <point x="649.3447036" y="1020.0"/>
+      <point x="730.0" y="939.3447036"/>
+      <point x="730.0" y="840.0" type="curve"/>
+      <point x="910" y="840" type="line"/>
+      <point x="910.0" y="1038.6894072"/>
+      <point x="748.6894072" y="1200.0"/>
+      <point x="550.0" y="1200.0" type="curve" smooth="yes"/>
+      <point x="351.3105928" y="1200.0"/>
+      <point x="190.0" y="1038.6894072"/>
+      <point x="190.0" y="840.0" type="curve"/>
+      <point x="190" y="602" type="line"/>
+      <point x="70" y="602" type="line"/>
+      <point x="70" y="458" type="line"/>
+      <point x="190" y="458" type="line"/>
+      <point x="190" y="150" type="line"/>
+      <point x="70" y="150" type="line"/>
+    </contour>
+  </outline>
+</glyph>

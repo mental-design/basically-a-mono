@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E_with_dotabove" format="2">
+  <advance width="980"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="586.0" y="1356.0" type="curve" smooth="yes"/>
+      <point x="586.0" y="1400.70511662"/>
+      <point x="549.70511662" y="1437.0"/>
+      <point x="505.0" y="1437.0" type="curve" smooth="yes"/>
+      <point x="460.29488338" y="1437.0"/>
+      <point x="424.0" y="1400.70511662"/>
+      <point x="424.0" y="1356.0" type="curve" smooth="yes"/>
+      <point x="424.0" y="1311.29488338"/>
+      <point x="460.29488338" y="1275.0"/>
+      <point x="505.0" y="1275.0" type="curve" smooth="yes"/>
+      <point x="549.70511662" y="1275.0"/>
+      <point x="586.0" y="1311.2948833799999"/>
+    </contour>
+    <contour>
+      <point x="130" y="15" type="line"/>
+      <point x="880" y="15" type="line"/>
+      <point x="880" y="105" type="line"/>
+      <point x="220" y="105" type="line"/>
+      <point x="220" y="540" type="line"/>
+      <point x="820" y="540" type="line"/>
+      <point x="820" y="630" type="line"/>
+      <point x="220" y="630" type="line"/>
+      <point x="220" y="1065" type="line"/>
+      <point x="880" y="1065" type="line"/>
+      <point x="880" y="1155" type="line"/>
+      <point x="130" y="1155" type="line"/>
+    </contour>
+  </outline>
+</glyph>
