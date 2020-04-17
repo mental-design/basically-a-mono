@@ -6,20 +6,20 @@
     <contour>
       <point x="395.55176769352084" y="945.0" type="line"/>
       <point x="564.4482323064792" y="945.0" type="line"/>
-      <point x="711.5491546352995" y="1205.0" type="line"/>
+      <point x="711.5491546352994" y="1205.0" type="line"/>
       <point x="542.6526900223411" y="1205.0" type="line"/>
     </contour>
     <contour>
-      <point x="60" y="-45" type="line"/>
-      <point x="900" y="-45" type="line"/>
-      <point x="900" y="165" type="line"/>
-      <point x="380.67716217041016" y="165" type="line"/>
-      <point x="900" y="615" type="line"/>
-      <point x="900" y="825" type="line"/>
-      <point x="60" y="825" type="line"/>
-      <point x="60" y="615" type="line"/>
-      <point x="579.3228378295898" y="615" type="line"/>
-      <point x="60" y="165" type="line"/>
+      <point x="75" y="-45" type="line"/>
+      <point x="885" y="-45" type="line"/>
+      <point x="885" y="165" type="line"/>
+      <point x="387.9098663330078" y="165" type="line"/>
+      <point x="885" y="615" type="line"/>
+      <point x="885" y="825" type="line"/>
+      <point x="75" y="825" type="line"/>
+      <point x="75" y="615" type="line"/>
+      <point x="572.0901336669922" y="615" type="line"/>
+      <point x="75" y="165" type="line"/>
     </contour>
   </outline>
 </glyph>

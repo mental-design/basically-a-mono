@@ -38,7 +38,7 @@
     <key>openTypeNameDesignerURL</key>
     <string>https://www.mentallydesigned.com/</string>
     <key>openTypeNameLicense</key>
-    <string>Copyright 2020 Mental Type Design (http://experi.mentallydesigned.com/type/), with Reserved Font Name 'Basically A Mono'. All Rights Reserved.
+    <string>Copyright 2020 Mental Type Design (http://experi.mentallydesigned.com/), with Reserved Font Name 'Basically A Mono'. All Rights Reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular</string>
     <key>openTypeNameVersion</key>
-    <string>1.000</string>
+    <string>1.001</string>
     <key>openTypeOS2TypoAscender</key>
     <integer>1420</integer>
     <key>openTypeOS2TypoDescender</key>
@@ -133,7 +133,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>xHeight</key>
     <integer>780</integer>
   </dict>

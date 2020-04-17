@@ -13,26 +13,26 @@
       <point x="403.2805862426758" y="1170" type="line"/>
     </contour>
     <contour>
-      <point x="65" y="390" type="line"/>
-      <point x="65.0" y="158.19569160000003"/>
-      <point x="253.19569159999992" y="-30.0"/>
+      <point x="95" y="360" type="line"/>
+      <point x="95.0" y="144.75314220000004"/>
+      <point x="269.75314219999996" y="-30.0"/>
       <point x="484.99999999999994" y="-30.0" type="curve" smooth="yes"/>
-      <point x="574.2047883929552" y="-30.0"/>
-      <point x="656.9514637958221" y="-2.1296126824041757"/>
-      <point x="725" y="45.37596893310547" type="curve"/>
-      <point x="725" y="-30" type="line"/>
-      <point x="905" y="-30" type="line"/>
-      <point x="905" y="810" type="line"/>
-      <point x="725" y="810" type="line"/>
-      <point x="725" y="390" type="line"/>
-      <point x="725.0" y="257.5403951999999"/>
-      <point x="617.4596048" y="149.99999999999997"/>
-      <point x="484.99999999999994" y="150.0" type="curve" smooth="yes"/>
-      <point x="352.5403951999999" y="150.00000000000003"/>
-      <point x="244.99999999999997" y="257.54039520000003"/>
-      <point x="245.0" y="390.00000000000006" type="curve"/>
-      <point x="245" y="810" type="line"/>
-      <point x="65" y="810" type="line"/>
+      <point x="562.2938551548332" y="-30.0"/>
+      <point x="634.3661063897671" y="-7.4658442969296885"/>
+      <point x="695" y="31.395950317382812" type="curve"/>
+      <point x="695" y="-30" type="line"/>
+      <point x="875" y="-30" type="line"/>
+      <point x="875" y="810" type="line"/>
+      <point x="695" y="810" type="line"/>
+      <point x="695" y="360" type="line"/>
+      <point x="695.0" y="244.09784579999996"/>
+      <point x="600.9021542" y="150.0"/>
+      <point x="485.0" y="150.0" type="curve" smooth="yes"/>
+      <point x="369.09784579999996" y="150.0"/>
+      <point x="275.0" y="244.09784580000002"/>
+      <point x="275.0" y="360.0" type="curve"/>
+      <point x="275" y="810" type="line"/>
+      <point x="95" y="810" type="line"/>
     </contour>
   </outline>
 </glyph>
