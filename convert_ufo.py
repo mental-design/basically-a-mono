@@ -1,4 +1,4 @@
-# Copyright 2020 Mental Type Design. All Rights Reserved.
+# Copyright 2020 Mental Design. All Rights Reserved.
 #
 # Redistribution and use in source and binary forms, with or without
 # modification, are permitted provided that the following conditions are met:
