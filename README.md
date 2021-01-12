@@ -1,6 +1,6 @@
 Basically A Mono
 ===
-by Hyung-Suk Kim (Mental Type Design)
+by Hyung-Suk Kim (Mental Design)
 
 Website: https://experi.mentallydesigned.com/type/bam/
 

@@ -6,4 +6,4 @@
 # Names should be added to this file as:
 # Name or Organization <email address>
 
-Hyung-Suk Kim, Mental Type Design <type@mentallydesigned.com>
+Hyung-Suk Kim, Mental Design <type@mentallydesigned.com>
