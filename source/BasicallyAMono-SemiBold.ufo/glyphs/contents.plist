@@ -156,6 +156,22 @@
     <string>Z__with_dotabove.glif</string>
     <key>a</key>
     <string>a.glif</string>
+    <key>a.alt</key>
+    <string>a.alt.glif</string>
+    <key>a.alt_with_acute</key>
+    <string>a.alt_with_acute.glif</string>
+    <key>a.alt_with_circumflex</key>
+    <string>a.alt_with_circumflex.glif</string>
+    <key>a.alt_with_diaeresis</key>
+    <string>a.alt_with_diaeresis.glif</string>
+    <key>a.alt_with_grave</key>
+    <string>a.alt_with_grave.glif</string>
+    <key>a.alt_with_macron</key>
+    <string>a.alt_with_macron.glif</string>
+    <key>a.alt_with_ring</key>
+    <string>a.alt_with_ring.glif</string>
+    <key>a.alt_with_smalltilde</key>
+    <string>a.alt_with_smalltilde.glif</string>
     <key>a_with_acute</key>
     <string>a_with_acute.glif</string>
     <key>a_with_circumflex</key>
@@ -352,6 +368,8 @@
     <string>less_equal.glif</string>
     <key>logicalnot</key>
     <string>logicalnot.glif</string>
+    <key>logo</key>
+    <string>logo.glif</string>
     <key>lower_i_dotless</key>
     <string>lower_i_dotless.glif</string>
     <key>lozenge</key>
@@ -372,8 +390,6 @@
     <string>n_with_acute.glif</string>
     <key>n_with_smalltilde</key>
     <string>n_with_smalltilde.glif</string>
-    <key>napp</key>
-    <string>napp.glif</string>
     <key>nary_product</key>
     <string>nary_product.glif</string>
     <key>nary_sum</key>
@@ -494,14 +510,46 @@
     <string>smalltilde.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>sub_eight</key>
+    <string>sub_eight.glif</string>
+    <key>sub_five</key>
+    <string>sub_five.glif</string>
+    <key>sub_four</key>
+    <string>sub_four.glif</string>
+    <key>sub_nine</key>
+    <string>sub_nine.glif</string>
+    <key>sub_one</key>
+    <string>sub_one.glif</string>
+    <key>sub_seven</key>
+    <string>sub_seven.glif</string>
+    <key>sub_six</key>
+    <string>sub_six.glif</string>
+    <key>sub_three</key>
+    <string>sub_three.glif</string>
+    <key>sub_two</key>
+    <string>sub_two.glif</string>
+    <key>sub_zero</key>
+    <string>sub_zero.glif</string>
+    <key>sup_eight</key>
+    <string>sup_eight.glif</string>
+    <key>sup_five</key>
+    <string>sup_five.glif</string>
     <key>sup_four</key>
     <string>sup_four.glif</string>
+    <key>sup_nine</key>
+    <string>sup_nine.glif</string>
     <key>sup_one</key>
     <string>sup_one.glif</string>
+    <key>sup_seven</key>
+    <string>sup_seven.glif</string>
+    <key>sup_six</key>
+    <string>sup_six.glif</string>
     <key>sup_three</key>
     <string>sup_three.glif</string>
     <key>sup_two</key>
     <string>sup_two.glif</string>
+    <key>sup_zero</key>
+    <string>sup_zero.glif</string>
     <key>t</key>
     <string>t.glif</string>
     <key>thinspace</key>

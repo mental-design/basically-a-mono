@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="SIGMA" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="03A3"/>
   <outline>
     <contour>
-      <point x="70" y="-30" type="line"/>
-      <point x="910" y="-30" type="line"/>
-      <point x="910" y="150" type="line"/>
-      <point x="320.6083297729492" y="150" type="line"/>
-      <point x="742" y="585" type="line"/>
-      <point x="320.6083297729492" y="1020" type="line"/>
-      <point x="910" y="1020" type="line"/>
-      <point x="910" y="1200" type="line"/>
-      <point x="70" y="1200" type="line"/>
-      <point x="70" y="1020" type="line"/>
-      <point x="491.3916702270508" y="585" type="line"/>
-      <point x="70" y="150" type="line"/>
+      <point x="124.01901245117188" y="0" type="line"/>
+      <point x="895.9809875488281" y="0" type="line"/>
+      <point x="895.9809875488281" y="183.88936614990234" type="line"/>
+      <point x="386.28314208984375" y="183.88936614990234" type="line"/>
+      <point x="791.1228179931641" y="582.0051879882812" type="line"/>
+      <point x="386.28314208984375" y="980.1210021972656" type="line"/>
+      <point x="895.9809875488281" y="980.1210021972656" type="line"/>
+      <point x="895.9809875488281" y="1164.010368347168" type="line"/>
+      <point x="124.01901245117188" y="1164.010368347168" type="line"/>
+      <point x="124.01901245117188" y="980.1210021972656" type="line"/>
+      <point x="528.8586883544922" y="582.0051879882812" type="line"/>
+      <point x="124.01901245117188" y="183.88936614990234" type="line"/>
     </contour>
   </outline>
 </glyph>

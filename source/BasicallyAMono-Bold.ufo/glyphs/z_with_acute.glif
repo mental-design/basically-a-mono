@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z_with_acute" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="017A"/>
   <outline>
     <contour>
-      <point x="395.55176769352084" y="945.0" type="line"/>
-      <point x="564.4482323064792" y="945.0" type="line"/>
-      <point x="711.5491546352994" y="1205.0" type="line"/>
-      <point x="542.6526900223411" y="1205.0" type="line"/>
+      <point x="420.63896105619284" y="945.0" type="line"/>
+      <point x="594.3610389438071" y="945.0" type="line"/>
+      <point x="726.7518690397454" y="1179.0" type="line"/>
+      <point x="553.0297911521311" y="1179.0" type="line"/>
     </contour>
     <contour>
-      <point x="75" y="-45" type="line"/>
-      <point x="885" y="-45" type="line"/>
-      <point x="885" y="165" type="line"/>
-      <point x="387.9098663330078" y="165" type="line"/>
-      <point x="885" y="615" type="line"/>
-      <point x="885" y="825" type="line"/>
-      <point x="75" y="825" type="line"/>
-      <point x="75" y="615" type="line"/>
-      <point x="572.0901336669922" y="615" type="line"/>
-      <point x="75" y="165" type="line"/>
+      <point x="122.75" y="0" type="line"/>
+      <point x="892.25" y="0" type="line"/>
+      <point x="892.25" y="216" type="line"/>
+      <point x="444.6763000488281" y="216" type="line"/>
+      <point x="892.25" y="621" type="line"/>
+      <point x="892.25" y="837" type="line"/>
+      <point x="122.75" y="837" type="line"/>
+      <point x="122.75" y="621" type="line"/>
+      <point x="570.3236999511719" y="621" type="line"/>
+      <point x="122.75" y="216" type="line"/>
     </contour>
   </outline>
 </glyph>

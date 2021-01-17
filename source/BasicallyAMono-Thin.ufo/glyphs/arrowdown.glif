@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="arrowdown" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="2193"/>
   <outline>
     <contour>
-      <point x="490" y="45" type="line"/>
-      <point x="835" y="390" type="line"/>
-      <point x="835" y="432.42640686035156" type="line"/>
-      <point x="505" y="102.42640686035156" type="line"/>
-      <point x="505" y="1125" type="line"/>
-      <point x="475" y="1125" type="line"/>
-      <point x="475" y="102.42640686035156" type="line"/>
-      <point x="145" y="432.42640686035156" type="line"/>
-      <point x="145" y="390" type="line"/>
+      <point x="510" y="0" type="line"/>
+      <point x="902.7272720336914" y="392.7272720336914" type="line"/>
+      <point x="902.7272720336914" y="439.01062774658203" type="line"/>
+      <point x="526.363639831543" y="62.646995544433594" type="line"/>
+      <point x="526.363639831543" y="1178.1818161010742" type="line"/>
+      <point x="493.63636016845703" y="1178.1818161010742" type="line"/>
+      <point x="493.63636016845703" y="62.646995544433594" type="line"/>
+      <point x="117.2727279663086" y="439.01062774658203" type="line"/>
+      <point x="117.2727279663086" y="392.7272720336914" type="line"/>
     </contour>
   </outline>
 </glyph>

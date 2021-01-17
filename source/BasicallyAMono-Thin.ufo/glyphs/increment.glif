@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="increment" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="2206"/>
   <outline>
     <contour>
-      <point x="803.5594177246094" y="75" type="line"/>
-      <point x="176.44058227539062" y="75" type="line"/>
-      <point x="490" y="1074.8714752197266" type="line"/>
+      <point x="868.2863006591797" y="32.727272033691406" type="line"/>
+      <point x="151.7136993408203" y="32.727272033691406" type="line"/>
+      <point x="510" y="1125.6520385742188" type="line"/>
     </contour>
     <contour>
-      <point x="145" y="45" type="line"/>
-      <point x="835" y="45" type="line"/>
-      <point x="835" y="75" type="line"/>
-      <point x="505.7202911376953" y="1125" type="line"/>
-      <point x="474.2797088623047" y="1125" type="line"/>
-      <point x="145" y="75" type="line"/>
+      <point x="117.2727279663086" y="0" type="line"/>
+      <point x="902.7272720336914" y="0" type="line"/>
+      <point x="902.7272720336914" y="32.727272033691406" type="line"/>
+      <point x="527.2204895019531" y="1178.1818161010742" type="line"/>
+      <point x="492.7795104980469" y="1178.1818161010742" type="line"/>
+      <point x="117.2727279663086" y="32.727272033691406" type="line"/>
     </contour>
   </outline>
 </glyph>

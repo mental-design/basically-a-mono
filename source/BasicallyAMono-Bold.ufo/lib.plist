@@ -118,10 +118,26 @@
       <string>mu</string>
       <string>pilcrow</string>
       <string>periodcentered</string>
+      <string>sup_zero</string>
       <string>sup_one</string>
       <string>sup_two</string>
       <string>sup_three</string>
       <string>sup_four</string>
+      <string>sup_five</string>
+      <string>sup_six</string>
+      <string>sup_seven</string>
+      <string>sup_eight</string>
+      <string>sup_nine</string>
+      <string>sub_zero</string>
+      <string>sub_one</string>
+      <string>sub_two</string>
+      <string>sub_three</string>
+      <string>sub_four</string>
+      <string>sub_five</string>
+      <string>sub_six</string>
+      <string>sub_seven</string>
+      <string>sub_eight</string>
+      <string>sub_nine</string>
       <string>one_over_four</string>
       <string>one_over_two</string>
       <string>three_over_four</string>
@@ -282,8 +298,16 @@
       <string>s_with_caron</string>
       <string>Z_with_caron</string>
       <string>z_with_caron</string>
-      <string>napp</string>
+      <string>logo</string>
       <string>BOM</string>
+      <string>a.alt</string>
+      <string>a.alt_with_grave</string>
+      <string>a.alt_with_acute</string>
+      <string>a.alt_with_circumflex</string>
+      <string>a.alt_with_smalltilde</string>
+      <string>a.alt_with_diaeresis</string>
+      <string>a.alt_with_ring</string>
+      <string>a.alt_with_macron</string>
     </array>
   </dict>
 </plist>

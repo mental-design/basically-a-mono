@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fraction" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="2044"/>
   <outline>
     <contour>
-      <point x="92.50000000000003" y="329.9999999999625" type="line"/>
-      <point x="887.5" y="735.7481531570107" type="line"/>
-      <point x="887.5" y="840.0" type="line"/>
-      <point x="92.50000000000003" y="434.2518468429518" type="line"/>
+      <point x="86.12903225806454" y="333.8709677419708" type="line"/>
+      <point x="933.8709677419355" y="730.0668948921174" type="line"/>
+      <point x="933.8709677419355" y="833.2258064516129" type="line"/>
+      <point x="86.12903225806454" y="437.02987930146634" type="line"/>
     </contour>
   </outline>
 </glyph>

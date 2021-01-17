@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sub_seven" format="2">
+  <advance width="1020"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="343.7349319458008" y="0" type="line"/>
+      <point x="481.1263427734375" y="0" type="line"/>
+      <point x="777.8816146850586" y="635.0806427001953" type="line"/>
+      <point x="777.8816146850586" y="759.5535507202148" type="line"/>
+      <point x="242.1183853149414" y="759.5535507202148" type="line"/>
+      <point x="242.1183853149414" y="635.0806427001953" type="line"/>
+      <point x="640.4901962280273" y="635.0806427001953" type="line"/>
+    </contour>
+  </outline>
+</glyph>

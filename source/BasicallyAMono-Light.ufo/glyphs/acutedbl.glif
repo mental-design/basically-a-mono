@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutedbl" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="02DD"/>
   <outline>
     <contour>
-      <point x="266.25198936997316" y="1015.0" type="line"/>
-      <point x="354.14708830120657" y="1015.0" type="line"/>
-      <point x="501.24801063002684" y="1275.0" type="line"/>
-      <point x="413.3529116987934" y="1275.0" type="line"/>
+      <point x="279.3418255302564" y="1028.4240687679082" type="line"/>
+      <point x="368.53172163772274" y="1028.4240687679082" type="line"/>
+      <point x="520.2690627218926" y="1296.6189111747851" type="line"/>
+      <point x="431.07916661442624" y="1296.6189111747851" type="line"/>
     </contour>
     <contour>
-      <point x="478.75198936997316" y="1015.0" type="line"/>
-      <point x="566.6470883012066" y="1015.0" type="line"/>
-      <point x="713.7480106300268" y="1275.0" type="line"/>
-      <point x="625.8529116987934" y="1275.0" type="line"/>
+      <point x="499.73093727810743" y="1028.4240687679082" type="line"/>
+      <point x="588.9208333855737" y="1028.4240687679082" type="line"/>
+      <point x="740.6581744697436" y="1296.6189111747851" type="line"/>
+      <point x="651.4682783622773" y="1296.6189111747851" type="line"/>
     </contour>
   </outline>
 </glyph>

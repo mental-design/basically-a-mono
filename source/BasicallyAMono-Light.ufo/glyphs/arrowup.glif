@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="arrowup" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="2191"/>
   <outline>
     <contour>
-      <point x="445" y="15" type="line"/>
-      <point x="535" y="15" type="line"/>
-      <point x="535" y="982.7207794189453" type="line"/>
-      <point x="865" y="652.7207794189453" type="line"/>
-      <point x="865" y="780" type="line"/>
-      <point x="490" y="1155" type="line"/>
-      <point x="115" y="780" type="line"/>
-      <point x="115" y="652.7207794189453" type="line"/>
-      <point x="445" y="982.7207794189453" type="line"/>
+      <point x="465.1289367675781" y="0" type="line"/>
+      <point x="554.8710632324219" y="0" type="line"/>
+      <point x="554.8710632324219" y="1001.0510864257812" type="line"/>
+      <point x="910.744987487793" y="645.1771697998047" type="line"/>
+      <point x="910.744987487793" y="772.0916900634766" type="line"/>
+      <point x="510" y="1172.8366775512695" type="line"/>
+      <point x="109.25501251220703" y="772.0916900634766" type="line"/>
+      <point x="109.25501251220703" y="645.1771697998047" type="line"/>
+      <point x="465.1289367675781" y="1001.0510864257812" type="line"/>
     </contour>
   </outline>
 </glyph>

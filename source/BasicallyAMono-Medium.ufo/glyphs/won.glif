@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="won" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="20A9"/>
   <outline>
     <contour>
-      <point x="227.04718017578125" y="-15" type="line"/>
-      <point x="378.8584671020508" y="-15" type="line"/>
-      <point x="477.05823516845703" y="615" type="line"/>
-      <point x="502.94176483154297" y="615" type="line"/>
-      <point x="601.1415328979492" y="-15" type="line"/>
-      <point x="752.9528198242188" y="-15" type="line"/>
-      <point x="851.152587890625" y="615" type="line"/>
-      <point x="985" y="615" type="line"/>
-      <point x="985" y="735" type="line"/>
-      <point x="869.857307434082" y="735" type="line"/>
-      <point x="940" y="1185" type="line"/>
-      <point x="788.1887130737305" y="1185" type="line"/>
-      <point x="718.0460205078125" y="735" type="line"/>
-      <point x="636.0483322143555" y="735" type="line"/>
-      <point x="565.9056396484375" y="1185" type="line"/>
-      <point x="414.0943603515625" y="1185" type="line"/>
-      <point x="343.95166778564453" y="735" type="line"/>
-      <point x="261.9539794921875" y="735" type="line"/>
-      <point x="191.81128692626953" y="1185" type="line"/>
-      <point x="40" y="1185" type="line"/>
-      <point x="110.14269256591797" y="735" type="line"/>
-      <point x="-5" y="735" type="line"/>
-      <point x="-5" y="615" type="line"/>
-      <point x="128.847412109375" y="615" type="line"/>
+      <point x="233.6446304321289" y="0" type="line"/>
+      <point x="386.8080520629883" y="0" type="line"/>
+      <point x="491.3413619995117" y="610.6935501098633" type="line"/>
+      <point x="528.6586380004883" y="610.6935501098633" type="line"/>
+      <point x="633.1919479370117" y="0" type="line"/>
+      <point x="786.3553695678711" y="0" type="line"/>
+      <point x="890.8886795043945" y="610.6935501098633" type="line"/>
+      <point x="1006.4516143798828" y="610.6935501098633" type="line"/>
+      <point x="1006.4516143798828" y="731.4677429199219" type="line"/>
+      <point x="911.5617752075195" y="731.4677429199219" type="line"/>
+      <point x="986.129035949707" y="1167.0967712402344" type="line"/>
+      <point x="832.9656066894531" y="1167.0967712402344" type="line"/>
+      <point x="758.3983459472656" y="731.4677429199219" type="line"/>
+      <point x="661.1489715576172" y="731.4677429199219" type="line"/>
+      <point x="586.5817108154297" y="1167.0967712402344" type="line"/>
+      <point x="433.4182891845703" y="1167.0967712402344" type="line"/>
+      <point x="358.8510284423828" y="731.4677429199219" type="line"/>
+      <point x="261.6016540527344" y="731.4677429199219" type="line"/>
+      <point x="187.03439331054688" y="1167.0967712402344" type="line"/>
+      <point x="33.87096405029297" y="1167.0967712402344" type="line"/>
+      <point x="108.43822479248047" y="731.4677429199219" type="line"/>
+      <point x="13.548385620117188" y="731.4677429199219" type="line"/>
+      <point x="13.548385620117188" y="610.6935501098633" type="line"/>
+      <point x="129.11132049560547" y="610.6935501098633" type="line"/>
     </contour>
     <contour>
-      <point x="280.65869903564453" y="615" type="line"/>
-      <point x="325.2469482421875" y="615" type="line"/>
-      <point x="302.9528274536133" y="471.97217559814453" type="line"/>
+      <point x="282.27474212646484" y="610.6935501098633" type="line"/>
+      <point x="338.17794036865234" y="610.6935501098633" type="line"/>
+      <point x="310.2263412475586" y="447.3976593017578" type="line"/>
     </contour>
     <contour>
-      <point x="654.7530517578125" y="615" type="line"/>
-      <point x="699.3413009643555" y="615" type="line"/>
-      <point x="677.0471801757812" y="471.97217559814453" type="line"/>
+      <point x="681.8220596313477" y="610.6935501098633" type="line"/>
+      <point x="737.7252578735352" y="610.6935501098633" type="line"/>
+      <point x="709.7736587524414" y="447.3976593017578" type="line"/>
     </contour>
   </outline>
 </glyph>

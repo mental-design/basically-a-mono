@@ -1,0 +1,17 @@
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+feature aalt {
+    feature ss01;
+} aalt;
+
+feature ss01 {
+    sub a by a.alt;
+    sub a_with_grave by a.alt_with_grave;
+    sub a_with_acute by a.alt_with_acute;
+    sub a_with_circumflex by a.alt_with_circumflex;
+    sub a_with_smalltilde by a.alt_with_smalltilde;
+    sub a_with_diaeresis by a.alt_with_diaeresis;
+    sub a_with_ring by a.alt_with_ring;
+    sub a_with_macron by a.alt_with_macron;
+} ss01;

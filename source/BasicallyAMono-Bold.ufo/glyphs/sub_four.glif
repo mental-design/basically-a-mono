@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sub_four" format="2">
+  <advance width="1020"/>
+  <unicode hex="2084"/>
+  <outline>
+    <contour>
+      <point x="427.59117126464844" y="325.2780456542969" type="line"/>
+      <point x="558.9824981689453" y="490.44239044189453" type="line"/>
+      <point x="558.9824981689453" y="325.2780456542969" type="line"/>
+    </contour>
+    <contour>
+      <point x="216.44249725341797" y="160.03804779052734" type="line"/>
+      <point x="558.9824981689453" y="160.03804779052734" type="line"/>
+      <point x="558.9824981689453" y="0" type="line"/>
+      <point x="724.2225036621094" y="0" type="line"/>
+      <point x="724.2225036621094" y="160.03804779052734" type="line"/>
+      <point x="803.557502746582" y="160.03804779052734" type="line"/>
+      <point x="803.557502746582" y="325.2780456542969" type="line"/>
+      <point x="724.2225036621094" y="325.2780456542969" type="line"/>
+      <point x="724.2225036621094" y="755.8649978637695" type="line"/>
+      <point x="558.9824981689453" y="755.8649978637695" type="line"/>
+      <point x="216.44249725341797" y="325.2780456542969" type="line"/>
+    </contour>
+  </outline>
+</glyph>

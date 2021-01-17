@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sub_one" format="2">
+  <advance width="1020"/>
+  <unicode hex="2081"/>
+  <outline>
+    <contour>
+      <point x="267.04779052734375" y="0" type="line"/>
+      <point x="752.9522094726562" y="0" type="line"/>
+      <point x="752.9522094726562" y="57.80708312988281" type="line"/>
+      <point x="555.4964599609375" y="57.80708312988281" type="line"/>
+      <point x="555.4964599609375" y="754.7097320556641" type="line"/>
+      <point x="497.6893768310547" y="754.7097320556641" type="line"/>
+      <point x="267.04779052734375" y="621.5487518310547" type="line"/>
+      <point x="267.04779052734375" y="554.7988815307617" type="line"/>
+      <point x="497.6893768310547" y="687.9598693847656" type="line"/>
+      <point x="497.6893768310547" y="57.80708312988281" type="line"/>
+      <point x="267.04779052734375" y="57.80708312988281" type="line"/>
+    </contour>
+  </outline>
+</glyph>

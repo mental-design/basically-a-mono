@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="turnedcomma" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="02BB"/>
   <outline>
     <contour>
-      <point x="508.51942443847656" y="1140" type="line"/>
-      <point x="437.4270742374109" y="1016.8644400270573"/>
-      <point x="400.0" y="877.1846973943874"/>
-      <point x="400.0" y="734.9999999999999" type="curve"/>
-      <point x="400" y="540" type="line"/>
-      <point x="580" y="540" type="line"/>
-      <point x="580" y="735" type="line"/>
-      <point x="580.0" y="845.5880979734123"/>
-      <point x="609.1099466290974" y="954.2278977988221"/>
-      <point x="664.4039956158036" y="1049.9999999999998" type="curve"/>
+      <point x="529.6863021850586" y="1170" type="line"/>
+      <point x="457.8295158958777" y="1045.5404017477783"/>
+      <point x="420.0" y="904.3587263986282"/>
+      <point x="420.0" y="760.6451612903224" type="curve"/>
+      <point x="420" y="569.0322570800781" type="line"/>
+      <point x="600" y="569.0322570800781" type="line"/>
+      <point x="600" y="760.6451644897461" type="line"/>
+      <point x="600.0" y="872.7621269776531"/>
+      <point x="629.5123882875641" y="982.9038595195433"/>
+      <point x="685.5708711312295" y="1079.9999999999998" type="curve"/>
     </contour>
   </outline>
 </glyph>

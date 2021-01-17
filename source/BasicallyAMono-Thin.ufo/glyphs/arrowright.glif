@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="arrowright" format="2">
-  <advance width="980"/>
+  <advance width="1020"/>
   <unicode hex="2192"/>
   <outline>
     <contour>
-      <point x="980" y="585" type="line"/>
-      <point x="635" y="930" type="line"/>
-      <point x="592.5735931396484" y="930" type="line"/>
-      <point x="922.5735931396484" y="600" type="line"/>
-      <point x="0" y="600" type="line"/>
-      <point x="0" y="570" type="line"/>
-      <point x="922.5735931396484" y="570" type="line"/>
-      <point x="592.5735931396484" y="240" type="line"/>
-      <point x="635" y="240" type="line"/>
+      <point x="1066.363639831543" y="589.0909118652344" type="line"/>
+      <point x="673.636360168457" y="981.8181838989258" type="line"/>
+      <point x="627.3530120849609" y="981.8181838989258" type="line"/>
+      <point x="1003.7166519165039" y="605.4545440673828" type="line"/>
+      <point x="-46.36363983154297" y="605.4545440673828" type="line"/>
+      <point x="-46.36363983154297" y="572.7272720336914" type="line"/>
+      <point x="1003.7166442871094" y="572.7272720336914" type="line"/>
+      <point x="627.3530120849609" y="196.36363983154297" type="line"/>
+      <point x="673.636360168457" y="196.36363983154297" type="line"/>
     </contour>
   </outline>
 </glyph>
