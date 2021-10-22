@@ -4,22 +4,22 @@
   <unicode hex="00ED"/>
   <outline>
     <contour>
-      <point x="453.13896105619284" y="945.0" type="line"/>
-      <point x="626.8610389438071" y="945.0" type="line"/>
-      <point x="759.2518690397454" y="1179.0" type="line"/>
-      <point x="585.5297911521311" y="1179.0" type="line"/>
+      <point x="452.4656196690316" y="952.3255813953488" type="line"/>
+      <point x="627.5343803309684" y="952.3255813953488" type="line"/>
+      <point x="760.9514959315263" y="1188.139534883721" type="line"/>
+      <point x="585.8827352695894" y="1188.139534883721" type="line"/>
     </contour>
     <contour>
-      <point x="162" y="0" type="line"/>
-      <point x="918" y="0" type="line"/>
-      <point x="918" y="216" type="line"/>
-      <point x="675" y="216" type="line"/>
-      <point x="675" y="837" type="line"/>
-      <point x="189" y="837" type="line"/>
-      <point x="189" y="621" type="line"/>
-      <point x="459" y="621" type="line"/>
-      <point x="459" y="216" type="line"/>
-      <point x="162" y="216" type="line"/>
+      <point x="159.06977081298828" y="0" type="line"/>
+      <point x="920.9302291870117" y="0" type="line"/>
+      <point x="920.9302291870117" y="217.6744155883789" type="line"/>
+      <point x="676.0465087890625" y="217.6744155883789" type="line"/>
+      <point x="676.0465087890625" y="843.4883728027344" type="line"/>
+      <point x="186.27906799316406" y="843.4883728027344" type="line"/>
+      <point x="186.27906799316406" y="625.8139572143555" type="line"/>
+      <point x="458.3720932006836" y="625.8139572143555" type="line"/>
+      <point x="458.3720932006836" y="217.6744155883789" type="line"/>
+      <point x="159.06977081298828" y="217.6744155883789" type="line"/>
     </contour>
   </outline>
 </glyph>
