@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U_with_acutedbl" format="2">
+  <advance width="1020"/>
+  <unicode hex="0170"/>
+  <outline>
+    <contour>
+      <point x="356.22959" y="1296.82927" type="line"/>
+      <point x="425.44715" y="1296.82927" type="line"/>
+      <point x="572.54808" y="1556.82927" type="line"/>
+      <point x="503.33051" y="1556.82927" type="line"/>
+    </contour>
+    <contour>
+      <point x="585.57918" y="1296.82927" type="line"/>
+      <point x="654.79675" y="1296.82927" type="line"/>
+      <point x="801.89767" y="1556.82927" type="line"/>
+      <point x="732.6801" y="1556.82927" type="line"/>
+    </contour>
+    <contour>
+      <point x="120.52845764160156" y="369.47154235839844" type="line"/>
+      <point x="120.52846" y="154.51635"/>
+      <point x="295.0448" y="-20.0"/>
+      <point x="510.0" y="-20.0" type="curve" smooth="yes"/>
+      <point x="724.9552" y="-20.0"/>
+      <point x="899.47154" y="154.51635"/>
+      <point x="899.47154" y="369.47154" type="curve"/>
+      <point x="899.4715423583984" y="1170" type="line"/>
+      <point x="839.2276382446289" y="1170" type="line"/>
+      <point x="839.2276382446289" y="369.47154235839844" type="line"/>
+      <point x="839.22764" y="187.76586"/>
+      <point x="691.70568" y="40.2439"/>
+      <point x="510.0" y="40.2439" type="curve" smooth="yes"/>
+      <point x="328.29432" y="40.2439"/>
+      <point x="180.77236" y="187.76586"/>
+      <point x="180.77236" y="369.47154" type="curve"/>
+      <point x="180.7723617553711" y="1170" type="line"/>
+      <point x="120.52845764160156" y="1170" type="line"/>
+    </contour>
+  </outline>
+</glyph>

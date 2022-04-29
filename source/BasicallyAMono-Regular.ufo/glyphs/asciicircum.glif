@@ -6,11 +6,11 @@
     <contour>
       <point x="240" y="690" type="line"/>
       <point x="370.46314239501953" y="690" type="line"/>
-      <point x="510" y="1017.0899276733398" type="line"/>
+      <point x="510" y="1017.0899353027344" type="line"/>
       <point x="649.5368576049805" y="690" type="line"/>
       <point x="780" y="690" type="line"/>
-      <point x="575.231575012207" y="1170" type="line"/>
-      <point x="444.76842498779297" y="1170" type="line"/>
+      <point x="575.2315673828125" y="1170" type="line"/>
+      <point x="444.7684326171875" y="1170" type="line"/>
     </contour>
   </outline>
 </glyph>

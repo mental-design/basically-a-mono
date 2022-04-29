@@ -5,17 +5,17 @@
   <outline>
     <contour>
       <point x="630.0" y="120.0" type="curve" smooth="yes"/>
-      <point x="630.0" y="186.2298024"/>
-      <point x="576.2298024" y="240.0"/>
+      <point x="630.0" y="186.2298"/>
+      <point x="576.2298" y="240.0"/>
       <point x="510.0" y="240.0" type="curve" smooth="yes"/>
-      <point x="443.7701976" y="240.0"/>
-      <point x="390.0" y="186.22980240000004"/>
-      <point x="390.0" y="120.00000000000001" type="curve" smooth="yes"/>
-      <point x="390.0" y="53.7701976"/>
-      <point x="443.77019759999996" y="1.4210854715202004e-14"/>
+      <point x="443.7702" y="240.0"/>
+      <point x="390.0" y="186.2298"/>
+      <point x="390.0" y="120.0" type="curve" smooth="yes"/>
+      <point x="390.0" y="53.7702"/>
+      <point x="443.7702" y="0.0"/>
       <point x="510.0" y="0.0" type="curve" smooth="yes"/>
-      <point x="576.2298023999999" y="-1.4210854715202004e-14"/>
-      <point x="630.0" y="53.77019759999996"/>
+      <point x="576.2298" y="-0.0"/>
+      <point x="630.0" y="53.7702"/>
     </contour>
   </outline>
 </glyph>

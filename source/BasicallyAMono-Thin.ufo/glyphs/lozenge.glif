@@ -12,9 +12,9 @@
       <point x="103.75" y="585" type="line"/>
     </contour>
     <contour>
-      <point x="877.2891235351562" y="585" type="line"/>
+      <point x="877.2891311645508" y="585" type="line"/>
       <point x="510" y="29.4647216796875" type="line"/>
-      <point x="142.71087646484375" y="585" type="line"/>
+      <point x="142.71086883544922" y="585" type="line"/>
       <point x="510" y="1140.5352783203125" type="line"/>
     </contour>
   </outline>

@@ -6,9 +6,9 @@
     <contour>
       <point x="917.5" y="555.0694580078125" type="line"/>
       <point x="107.5" y="895" type="line"/>
-      <point x="107.5" y="764.861083984375" type="line"/>
-      <point x="762.4499130249023" y="490" type="line"/>
-      <point x="107.5" y="215.138916015625" type="line"/>
+      <point x="107.5" y="764.8610763549805" type="line"/>
+      <point x="762.4499053955078" y="490" type="line"/>
+      <point x="107.5" y="215.13892364501953" type="line"/>
       <point x="107.5" y="85" type="line"/>
       <point x="917.5" y="424.9305419921875" type="line"/>
     </contour>

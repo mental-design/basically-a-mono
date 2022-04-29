@@ -1,17 +1,13 @@
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 
+@a = [a a_with_grave a_with_acute a_with_circumflex a_with_smalltilde a_with_diaeresis a_with_ring a_with_macron a_with_ogonek ordinalfeminine];
+@a.alt = [a.alt a.alt_with_grave a.alt_with_acute a.alt_with_circumflex a.alt_with_smalltilde a.alt_with_diaeresis a.alt_with_ring a.alt_with_macron a.alt_with_ogonek ordinalfeminine.alt];
+
 feature aalt {
     feature ss01;
 } aalt;
 
 feature ss01 {
-    sub a by a.alt;
-    sub a_with_grave by a.alt_with_grave;
-    sub a_with_acute by a.alt_with_acute;
-    sub a_with_circumflex by a.alt_with_circumflex;
-    sub a_with_smalltilde by a.alt_with_smalltilde;
-    sub a_with_diaeresis by a.alt_with_diaeresis;
-    sub a_with_ring by a.alt_with_ring;
-    sub a_with_macron by a.alt_with_macron;
+    sub @a by @a.alt;
 } ss01;

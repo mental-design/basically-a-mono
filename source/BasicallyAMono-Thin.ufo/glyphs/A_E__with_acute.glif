@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE_with_acute" format="2">
+  <advance width="1020"/>
+  <unicode hex="01FC"/>
+  <outline>
+    <contour>
+      <point x="540.07352" y="1300.0" type="line"/>
+      <point x="577.41458" y="1300.0" type="line"/>
+      <point x="724.5155" y="1560.0" type="line"/>
+      <point x="687.17444" y="1560.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="110.24404907226562" y="0" type="line"/>
+      <point x="144.71891021728516" y="0" type="line"/>
+      <point x="290.94207763671875" y="413.2142868041992" type="line"/>
+      <point x="542.4940490722656" y="413.2142868041992" type="line"/>
+      <point x="542.4940490722656" y="0" type="line"/>
+      <point x="859.7559509277344" y="0" type="line"/>
+      <point x="859.7559509277344" y="32.5" type="line"/>
+      <point x="574.9940490722656" y="32.5" type="line"/>
+      <point x="574.9940490722656" y="568.75" type="line"/>
+      <point x="827.2559509277344" y="568.75" type="line"/>
+      <point x="827.2559509277344" y="601.25" type="line"/>
+      <point x="574.9940490722656" y="601.25" type="line"/>
+      <point x="574.9940490722656" y="1137.5" type="line"/>
+      <point x="859.7559509277344" y="1137.5" type="line"/>
+      <point x="859.7559509277344" y="1170" type="line"/>
+      <point x="524.2691879272461" y="1170" type="line"/>
+    </contour>
+    <contour>
+      <point x="302.4427719116211" y="445.7142868041992" type="line"/>
+      <point x="542.4940490722656" y="1124.078872680664" type="line"/>
+      <point x="542.4940490722656" y="445.7142868041992" type="line"/>
+    </contour>
+  </outline>
+</glyph>

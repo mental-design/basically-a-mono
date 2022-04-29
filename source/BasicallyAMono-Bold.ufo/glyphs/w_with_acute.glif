@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w_with_acute" format="2">
+  <advance width="1020"/>
+  <unicode hex="1E83"/>
+  <outline>
+    <contour>
+      <point x="422.46562" y="952.32558" type="line"/>
+      <point x="597.53438" y="952.32558" type="line"/>
+      <point x="744.6353" y="1212.32558" type="line"/>
+      <point x="569.56654" y="1212.32558" type="line"/>
+    </contour>
+    <contour>
+      <point x="622.1896820068359" y="0" type="line"/>
+      <point x="823.7531585693359" y="0" type="line"/>
+      <point x="1027.9061737060547" y="843.4883728027344" type="line"/>
+      <point x="826.3426895141602" y="843.4883728027344" type="line"/>
+      <point x="714.1530151367188" y="379.96012115478516" type="line"/>
+      <point x="601.9633407592773" y="843.4883728027344" type="line"/>
+      <point x="418.03665924072266" y="843.4883728027344" type="line"/>
+      <point x="305.84698486328125" y="379.96012115478516" type="line"/>
+      <point x="193.65731048583984" y="843.4883728027344" type="line"/>
+      <point x="-7.9061737060546875" y="843.4883728027344" type="line"/>
+      <point x="196.24684143066406" y="0" type="line"/>
+      <point x="397.81031799316406" y="0" type="line"/>
+      <point x="510" y="463.5282440185547" type="line"/>
+    </contour>
+  </outline>
+</glyph>

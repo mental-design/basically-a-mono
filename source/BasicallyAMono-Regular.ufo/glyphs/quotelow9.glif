@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="497.6537170410156" y="-30" type="line"/>
-      <point x="545.0486171750593" y="52.09037331529521"/>
-      <point x="570.0" y="145.21020173707507"/>
+      <point x="545.04862" y="52.09037"/>
+      <point x="570.0" y="145.2102"/>
       <point x="570.0" y="240.0" type="curve"/>
       <point x="570" y="360" type="line"/>
       <point x="450" y="360" type="line"/>
       <point x="450" y="240" type="line"/>
-      <point x="450.0" y="166.27460135105844"/>
-      <point x="430.5933689139351" y="93.84806813411842"/>
-      <point x="393.73066958946424" y="30.0" type="curve"/>
+      <point x="450.0" y="166.2746"/>
+      <point x="430.59337" y="93.84807"/>
+      <point x="393.73067" y="30.0" type="curve"/>
     </contour>
   </outline>
 </glyph>

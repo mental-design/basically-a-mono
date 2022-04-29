@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lower_j_dotless" format="2">
+  <advance width="1020"/>
+  <unicode hex="0237"/>
+  <outline>
+    <contour>
+      <point x="145.2036895751953" y="-326.98075103759766" type="line"/>
+      <point x="401.81555938720703" y="-326.98075103759766" type="line"/>
+      <point x="582.28115" y="-326.98075"/>
+      <point x="728.79631" y="-180.46559"/>
+      <point x="728.79631" y="0.0" type="curve"/>
+      <point x="728.7963104248047" y="832.2293472290039" type="line"/>
+      <point x="257.79390716552734" y="832.2293472290039" type="line"/>
+      <point x="257.79390716552734" y="647.3937377929688" type="line"/>
+      <point x="543.9607086181641" y="647.3937377929688" type="line"/>
+      <point x="543.9607086181641" y="0" type="line"/>
+      <point x="543.96071" y="-78.45204"/>
+      <point x="480.2676" y="-142.14515"/>
+      <point x="401.81556" y="-142.14515" type="curve"/>
+      <point x="145.2036895751953" y="-142.14514923095703" type="line"/>
+    </contour>
+  </outline>
+</glyph>

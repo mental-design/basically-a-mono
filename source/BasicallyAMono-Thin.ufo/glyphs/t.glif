@@ -4,26 +4,26 @@
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="384.375" y="287.08333587646484" type="line"/>
-      <point x="384.375" y="128.63772967500003"/>
-      <point x="513.012729675" y="0.0"/>
-      <point x="671.4583333333333" y="0.0" type="curve"/>
-      <point x="847.5" y="0" type="line"/>
-      <point x="847.5" y="32.5" type="line"/>
-      <point x="671.4583358764648" y="32.5" type="line"/>
-      <point x="530.9499678249999" y="32.50000000000003"/>
-      <point x="416.875" y="146.57496782500002"/>
-      <point x="416.875" y="287.08333333333337" type="curve"/>
-      <point x="416.875" y="747.5" type="line"/>
-      <point x="847.5" y="747.5" type="line"/>
-      <point x="847.5" y="780" type="line"/>
-      <point x="416.875" y="780" type="line"/>
-      <point x="416.875" y="1021.4285736083984" type="line"/>
-      <point x="384.375" y="1021.4285736083984" type="line"/>
-      <point x="384.375" y="780" type="line"/>
-      <point x="132.5" y="780" type="line"/>
-      <point x="132.5" y="747.5" type="line"/>
-      <point x="384.375" y="747.5" type="line"/>
+      <point x="355.9375" y="287.0833282470703" type="line"/>
+      <point x="355.9375" y="128.63773"/>
+      <point x="484.57523" y="0.0"/>
+      <point x="643.02083" y="0.0" type="curve"/>
+      <point x="851.5625" y="0" type="line"/>
+      <point x="851.5625" y="32.5" type="line"/>
+      <point x="643.0208282470703" y="32.5" type="line"/>
+      <point x="502.51247" y="32.5"/>
+      <point x="388.4375" y="146.57497"/>
+      <point x="388.4375" y="287.08333" type="curve"/>
+      <point x="388.4375" y="747.5" type="line"/>
+      <point x="851.5625" y="747.5" type="line"/>
+      <point x="851.5625" y="780" type="line"/>
+      <point x="388.4375" y="780" type="line"/>
+      <point x="388.4375" y="1021.4285736083984" type="line"/>
+      <point x="355.9375" y="1021.4285736083984" type="line"/>
+      <point x="355.9375" y="780" type="line"/>
+      <point x="128.4375" y="780" type="line"/>
+      <point x="128.4375" y="747.5" type="line"/>
+      <point x="355.9375" y="747.5" type="line"/>
     </contour>
   </outline>
 </glyph>

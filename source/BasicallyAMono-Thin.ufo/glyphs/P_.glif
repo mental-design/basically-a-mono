@@ -4,28 +4,28 @@
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="143.125" y="0" type="line"/>
-      <point x="175.625" y="0" type="line"/>
-      <point x="175.625" y="422.5" type="line"/>
-      <point x="533.125" y="422.5" type="line"/>
-      <point x="739.403238725" y="422.49999999999994"/>
-      <point x="906.875" y="589.971761275"/>
-      <point x="906.875" y="796.25" type="curve" smooth="yes"/>
-      <point x="906.875" y="1002.5282387249999"/>
-      <point x="739.4032387249999" y="1170.0"/>
-      <point x="533.125" y="1170.0" type="curve"/>
-      <point x="143.125" y="1170" type="line"/>
+      <point x="163.75" y="0" type="line"/>
+      <point x="196.25" y="0" type="line"/>
+      <point x="196.25" y="455" type="line"/>
+      <point x="553.75" y="455" type="line"/>
+      <point x="751.05962" y="455.0"/>
+      <point x="911.25" y="615.19038"/>
+      <point x="911.25" y="812.5" type="curve" smooth="yes"/>
+      <point x="911.25" y="1009.80962"/>
+      <point x="751.05962" y="1170.0"/>
+      <point x="553.75" y="1170.0" type="curve"/>
+      <point x="163.75" y="1170" type="line"/>
     </contour>
     <contour>
-      <point x="533.125" y="1137.5" type="line"/>
-      <point x="721.4660005750001" y="1137.5"/>
-      <point x="874.375" y="984.591000575"/>
-      <point x="874.375" y="796.25" type="curve" smooth="yes"/>
-      <point x="874.375" y="607.908999425"/>
-      <point x="721.4660005750001" y="454.99999999999994"/>
-      <point x="533.125" y="454.99999999999994" type="curve"/>
-      <point x="175.625" y="455" type="line"/>
-      <point x="175.625" y="1137.5" type="line"/>
+      <point x="553.75" y="1137.5" type="line"/>
+      <point x="733.12238" y="1137.5"/>
+      <point x="878.75" y="991.87238"/>
+      <point x="878.75" y="812.5" type="curve" smooth="yes"/>
+      <point x="878.75" y="633.12762"/>
+      <point x="733.12238" y="487.5"/>
+      <point x="553.75" y="487.5" type="curve"/>
+      <point x="196.25" y="487.5" type="line"/>
+      <point x="196.25" y="1137.5" type="line"/>
     </contour>
   </outline>
 </glyph>

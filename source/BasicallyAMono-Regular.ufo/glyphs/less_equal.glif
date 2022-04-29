@@ -5,18 +5,18 @@
   <outline>
     <contour>
       <point x="915" y="265" type="line"/>
-      <point x="915" y="390.68033599853516" type="line"/>
-      <point x="306.85821533203125" y="580" type="line"/>
-      <point x="915" y="769.3196640014648" type="line"/>
+      <point x="915" y="390.6803283691406" type="line"/>
+      <point x="306.8582305908203" y="580" type="line"/>
+      <point x="915" y="769.3196716308594" type="line"/>
       <point x="915" y="895" type="line"/>
-      <point x="105" y="642.8401641845703" type="line"/>
-      <point x="105" y="517.1598358154297" type="line"/>
+      <point x="105" y="642.8401718139648" type="line"/>
+      <point x="105" y="517.1598281860352" type="line"/>
     </contour>
     <contour>
-      <point x="105.0" y="85.00000000000546" type="line"/>
-      <point x="915.0" y="85.00000000000546" type="line"/>
-      <point x="915.0" y="205.00000000000546" type="line"/>
-      <point x="105.0" y="205.00000000000546" type="line"/>
+      <point x="105.0" y="85.0" type="line"/>
+      <point x="915.0" y="85.0" type="line"/>
+      <point x="915.0" y="205.0" type="line"/>
+      <point x="105.0" y="205.0" type="line"/>
     </contour>
   </outline>
 </glyph>

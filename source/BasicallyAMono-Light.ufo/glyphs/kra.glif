@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kra" format="2">
+  <advance width="1020"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="134.14907836914062" y="0" type="line"/>
+      <point x="223.67414093017578" y="0" type="line"/>
+      <point x="223.67414093017578" y="356.5567321777344" type="line"/>
+      <point x="730.3007965087891" y="0" type="line"/>
+      <point x="885.8509216308594" y="0" type="line"/>
+      <point x="315.6217803955078" y="401.3192596435547" type="line"/>
+      <point x="881.4645462036133" y="799.5514526367188" type="line"/>
+      <point x="725.9144287109375" y="799.5514526367188" type="line"/>
+      <point x="223.67414093017578" y="446.081787109375" type="line"/>
+      <point x="223.67414093017578" y="799.5514526367188" type="line"/>
+      <point x="134.14907836914062" y="799.5514526367188" type="line"/>
+    </contour>
+  </outline>
+</glyph>

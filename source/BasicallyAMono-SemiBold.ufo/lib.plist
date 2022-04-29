@@ -154,6 +154,7 @@
       <string>eth</string>
       <string>thorn</string>
       <string>lower_i_dotless</string>
+      <string>lower_j_dotless</string>
       <string>OE</string>
       <string>oe</string>
       <string>PI</string>
@@ -213,12 +214,13 @@
       <string>dotabove</string>
       <string>diaeresis</string>
       <string>ring</string>
+      <string>ogonek</string>
       <string>acutedbl</string>
+      <string>A_with_diaeresis</string>
       <string>A_with_grave</string>
       <string>A_with_acute</string>
       <string>A_with_circumflex</string>
       <string>A_with_smalltilde</string>
-      <string>A_with_diaeresis</string>
       <string>A_with_ring</string>
       <string>C_with_cedilla</string>
       <string>E_with_grave</string>
@@ -236,7 +238,6 @@
       <string>O_with_smalltilde</string>
       <string>O_with_diaeresis</string>
       <string>O_with_stroke</string>
-      <string>O_with_macron</string>
       <string>U_with_grave</string>
       <string>U_with_acute</string>
       <string>U_with_circumflex</string>
@@ -265,7 +266,6 @@
       <string>o_with_smalltilde</string>
       <string>o_with_diaeresis</string>
       <string>o_with_stroke</string>
-      <string>o_with_macron</string>
       <string>u_with_grave</string>
       <string>u_with_acute</string>
       <string>u_with_circumflex</string>
@@ -274,30 +274,142 @@
       <string>y_with_diaeresis</string>
       <string>A_with_macron</string>
       <string>a_with_macron</string>
-      <string>E_with_macron</string>
-      <string>e_with_macron</string>
-      <string>I_with_macron</string>
-      <string>i_with_macron</string>
-      <string>U_with_macron</string>
-      <string>u_with_macron</string>
-      <string>E_with_dotabove</string>
-      <string>e_with_dotabove</string>
-      <string>Z_with_dotabove</string>
-      <string>z_with_dotabove</string>
+      <string>A_with_breve</string>
+      <string>a_with_breve</string>
+      <string>A_with_ogonek</string>
+      <string>a_with_ogonek</string>
       <string>C_with_acute</string>
       <string>c_with_acute</string>
-      <string>N_with_acute</string>
-      <string>n_with_acute</string>
-      <string>S_with_acute</string>
-      <string>s_with_acute</string>
-      <string>Z_with_acute</string>
-      <string>z_with_acute</string>
+      <string>C_with_circumflex</string>
+      <string>c_with_circumflex</string>
+      <string>C_with_dotabove</string>
+      <string>c_with_dotabove</string>
       <string>C_with_caron</string>
       <string>c_with_caron</string>
+      <string>E_with_macron</string>
+      <string>e_with_macron</string>
+      <string>E_with_breve</string>
+      <string>e_with_breve</string>
+      <string>E_with_dotabove</string>
+      <string>e_with_dotabove</string>
+      <string>E_with_ogonek</string>
+      <string>e_with_ogonek</string>
+      <string>E_with_caron</string>
+      <string>e_with_caron</string>
+      <string>G_with_circumflex</string>
+      <string>g_with_circumflex</string>
+      <string>G_with_breve</string>
+      <string>g_with_breve</string>
+      <string>G_with_dotabove</string>
+      <string>g_with_dotabove</string>
+      <string>H_with_circumflex</string>
+      <string>h_with_circumflex</string>
+      <string>I_with_smalltilde</string>
+      <string>i_with_smalltilde</string>
+      <string>I_with_macron</string>
+      <string>i_with_macron</string>
+      <string>I_with_breve</string>
+      <string>i_with_breve</string>
+      <string>I_with_ogonek</string>
+      <string>i_with_ogonek</string>
+      <string>I_with_dotabove</string>
+      <string>J_with_circumflex</string>
+      <string>j_with_circumflex</string>
+      <string>K_with_commabelow</string>
+      <string>k_with_commabelow</string>
+      <string>kra</string>
+      <string>L_with_acute</string>
+      <string>l_with_acute</string>
+      <string>L_with_commabelow</string>
+      <string>l_with_commabelow</string>
+      <string>L_with_stroke</string>
+      <string>l_with_stroke</string>
+      <string>N_with_acute</string>
+      <string>n_with_acute</string>
+      <string>N_with_commabelow</string>
+      <string>n_with_commabelow</string>
+      <string>N_with_caron</string>
+      <string>n_with_caron</string>
+      <string>O_with_macron</string>
+      <string>o_with_macron</string>
+      <string>O_with_breve</string>
+      <string>o_with_breve</string>
+      <string>O_with_acutedbl</string>
+      <string>o_with_acutedbl</string>
+      <string>R_with_acute</string>
+      <string>r_with_acute</string>
+      <string>R_with_commabelow</string>
+      <string>r_with_commabelow</string>
+      <string>R_with_caron</string>
+      <string>r_with_caron</string>
+      <string>S_with_acute</string>
+      <string>s_with_acute</string>
+      <string>S_with_circumflex</string>
+      <string>s_with_circumflex</string>
+      <string>S_with_cedilla</string>
+      <string>s_with_cedilla</string>
+      <string>T_with_cedilla</string>
+      <string>t_with_cedilla</string>
+      <string>U_with_macron</string>
+      <string>u_with_macron</string>
+      <string>U_with_breve</string>
+      <string>u_with_breve</string>
       <string>S_with_caron</string>
       <string>s_with_caron</string>
+      <string>U_with_smalltilde</string>
+      <string>u_with_smalltilde</string>
+      <string>U_with_ring</string>
+      <string>u_with_ring</string>
+      <string>U_with_acutedbl</string>
+      <string>u_with_acutedbl</string>
+      <string>U_with_ogonek</string>
+      <string>u_with_ogonek</string>
+      <string>W_with_circumflex</string>
+      <string>w_with_circumflex</string>
+      <string>Y_with_circumflex</string>
+      <string>y_with_circumflex</string>
+      <string>Z_with_acute</string>
+      <string>z_with_acute</string>
+      <string>Z_with_dotabove</string>
+      <string>z_with_dotabove</string>
       <string>Z_with_caron</string>
       <string>z_with_caron</string>
+      <string>G_with_caron</string>
+      <string>g_with_caron</string>
+      <string>O_with_ogonek</string>
+      <string>o_with_ogonek</string>
+      <string>AE_with_acute</string>
+      <string>ae_with_acute</string>
+      <string>S_with_commabelow</string>
+      <string>s_with_commabelow</string>
+      <string>T_with_commabelow</string>
+      <string>t_with_commabelow</string>
+      <string>W_with_grave</string>
+      <string>w_with_grave</string>
+      <string>W_with_acute</string>
+      <string>w_with_acute</string>
+      <string>W_with_diaeresis</string>
+      <string>w_with_diaeresis</string>
+      <string>A_with_dotbelow</string>
+      <string>a_with_dotbelow</string>
+      <string>E_with_dotbelow</string>
+      <string>e_with_dotbelow</string>
+      <string>E_with_smalltilde</string>
+      <string>e_with_smalltilde</string>
+      <string>I_with_dotbelow</string>
+      <string>i_with_dotbelow</string>
+      <string>O_with_dotbelow</string>
+      <string>o_with_dotbelow</string>
+      <string>U_with_dotbelow</string>
+      <string>u_with_dotbelow</string>
+      <string>Y_with_grave</string>
+      <string>y_with_grave</string>
+      <string>Y_with_dotbelow</string>
+      <string>y_with_dotbelow</string>
+      <string>Y_with_smalltilde</string>
+      <string>y_with_smalltilde</string>
+      <string>Y_with_macron</string>
+      <string>y_with_macron</string>
       <string>logo</string>
       <string>BOM</string>
       <string>a.alt</string>
@@ -307,7 +419,9 @@
       <string>a.alt_with_smalltilde</string>
       <string>a.alt_with_diaeresis</string>
       <string>a.alt_with_ring</string>
+      <string>a.alt_with_ogonek</string>
       <string>a.alt_with_macron</string>
+      <string>ordinalfeminine.alt</string>
     </array>
   </dict>
 </plist>

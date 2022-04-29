@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="280" y="910" type="line"/>
-      <point x="324.0578842163086" y="910" type="line"/>
-      <point x="540" y="1145.9318389892578" type="line"/>
-      <point x="755.9421157836914" y="910" type="line"/>
+      <point x="325.69032287597656" y="910" type="line"/>
+      <point x="540" y="1126.880760192871" type="line"/>
+      <point x="754.3096771240234" y="910" type="line"/>
       <point x="800" y="910" type="line"/>
-      <point x="562.0289459228516" y="1170" type="line"/>
-      <point x="517.9710540771484" y="1170" type="line"/>
+      <point x="562.8451614379883" y="1150" type="line"/>
+      <point x="517.1548385620117" y="1150" type="line"/>
     </contour>
     <contour>
       <point x="198.75" y="0" type="line"/>

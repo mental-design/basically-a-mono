@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W_with_acute" format="2">
+  <advance width="1020"/>
+  <unicode hex="1E82"/>
+  <outline>
+    <contour>
+      <point x="465.51291" y="1293.48285" type="line"/>
+      <point x="554.48709" y="1293.48285" type="line"/>
+      <point x="701.58801" y="1553.48285" type="line"/>
+      <point x="612.61383" y="1553.48285" type="line"/>
+    </contour>
+    <contour>
+      <point x="676.3431167602539" y="0" type="line"/>
+      <point x="762.7174682617188" y="0" type="line"/>
+      <point x="970.0884017944336" y="1170" type="line"/>
+      <point x="883.7140502929688" y="1170" type="line"/>
+      <point x="717.3709335327148" y="231.4815444946289" type="line"/>
+      <point x="551.0278091430664" y="1170" type="line"/>
+      <point x="468.9721908569336" y="1170" type="line"/>
+      <point x="302.62906646728516" y="231.4815444946289" type="line"/>
+      <point x="136.28594970703125" y="1170" type="line"/>
+      <point x="49.911598205566406" y="1170" type="line"/>
+      <point x="257.28253173828125" y="0" type="line"/>
+      <point x="343.6568832397461" y="0" type="line"/>
+      <point x="510" y="938.5184783935547" type="line"/>
+    </contour>
+  </outline>
+</glyph>

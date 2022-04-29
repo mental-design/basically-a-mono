@@ -6,12 +6,12 @@
     <contour>
       <point x="1062.5" y="585" type="line"/>
       <point x="672.5" y="975" type="line"/>
-      <point x="626.5380554199219" y="975" type="line"/>
-      <point x="1000.2880554199219" y="601.25" type="line"/>
+      <point x="626.5380630493164" y="975" type="line"/>
+      <point x="1000.2880630493164" y="601.25" type="line"/>
       <point x="-42.5" y="601.25" type="line"/>
       <point x="-42.5" y="568.75" type="line"/>
-      <point x="1000.2880554199219" y="568.75" type="line"/>
-      <point x="626.5380554199219" y="195" type="line"/>
+      <point x="1000.2880630493164" y="568.75" type="line"/>
+      <point x="626.5380630493164" y="195" type="line"/>
       <point x="672.5" y="195" type="line"/>
     </contour>
   </outline>

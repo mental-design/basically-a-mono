@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k_with_commabelow" format="2">
+  <advance width="1020"/>
+  <unicode hex="0137"/>
+  <outline>
+    <contour>
+      <point x="213.75" y="0" type="line"/>
+      <point x="246.25" y="0" type="line"/>
+      <point x="246.25" y="375.375" type="line"/>
+      <point x="835.7424926757812" y="0" type="line"/>
+      <point x="896.25" y="0" type="line"/>
+      <point x="281.2383575439453" y="391.625" type="line"/>
+      <point x="891.1461715698242" y="780" type="line"/>
+      <point x="830.6386566162109" y="780" type="line"/>
+      <point x="246.25" y="407.875" type="line"/>
+      <point x="246.25" y="1170" type="line"/>
+      <point x="213.75" y="1170" type="line"/>
+    </contour>
+    <contour>
+      <point x="535.0768585205078" y="-330" type="line"/>
+      <point x="558.77431" y="-288.95481"/>
+      <point x="571.25" y="-242.3949"/>
+      <point x="571.25" y="-195.0" type="curve"/>
+      <point x="571.25" y="-110" type="line"/>
+      <point x="538.75" y="-110" type="line"/>
+      <point x="538.75" y="-195" type="line"/>
+      <point x="538.75" y="-236.68996"/>
+      <point x="527.77601" y="-277.64544"/>
+      <point x="506.93103" y="-313.75" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

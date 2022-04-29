@@ -12,10 +12,10 @@
       <point x="94.7889175415039" y="585" type="line"/>
     </contour>
     <contour>
-      <point x="819.887565612793" y="585" type="line"/>
-      <point x="510" y="84.97361755371094" type="line"/>
-      <point x="200.11243438720703" y="585" type="line"/>
-      <point x="510" y="1085.026382446289" type="line"/>
+      <point x="819.8875579833984" y="585" type="line"/>
+      <point x="510" y="84.97362518310547" type="line"/>
+      <point x="200.11244201660156" y="585" type="line"/>
+      <point x="510" y="1085.0263748168945" type="line"/>
     </contour>
   </outline>
 </glyph>

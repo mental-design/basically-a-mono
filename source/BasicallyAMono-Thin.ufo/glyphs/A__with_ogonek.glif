@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A_with_ogonek" format="2">
+  <advance width="1020"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="266.35742950439453" y="445.7142868041992" type="line"/>
+      <point x="510" y="1122.0531768798828" type="line"/>
+      <point x="753.6425704956055" y="445.7142868041992" type="line"/>
+    </contour>
+    <contour>
+      <point x="71.25" y="0" type="line"/>
+      <point x="105.79447174072266" y="0" type="line"/>
+      <point x="254.64971923828125" y="413.2142868041992" type="line"/>
+      <point x="765.3502807617188" y="413.2142868041992" type="line"/>
+      <point x="911.1817932128906" y="8.39373779296875" type="line"/>
+      <point x="783.6157531738281" y="-119.17230987548828" type="line"/>
+      <point x="760.455" y="-142.33306"/>
+      <point x="747.44343" y="-173.74576"/>
+      <point x="747.44343" y="-206.5" type="curve"/>
+      <point x="747.44343" y="-274.6615"/>
+      <point x="802.78193" y="-330.0"/>
+      <point x="870.94343" y="-330.0" type="curve"/>
+      <point x="948.75" y="-330" type="line"/>
+      <point x="948.75" y="-297.5" type="line"/>
+      <point x="870.9434280395508" y="-297.5" type="line"/>
+      <point x="820.71917" y="-297.5"/>
+      <point x="779.94343" y="-256.72427"/>
+      <point x="779.94343" y="-206.5" type="curve"/>
+      <point x="779.94343" y="-182.3653"/>
+      <point x="789.53091" y="-159.21909"/>
+      <point x="806.59672" y="-142.15328" type="curve"/>
+      <point x="948.75" y="0" type="line"/>
+      <point x="527.2722396850586" y="1170" type="line"/>
+      <point x="492.7277603149414" y="1170" type="line"/>
+    </contour>
+  </outline>
+</glyph>
