@@ -5,14 +5,14 @@
   <outline>
     <contour>
       <point x="476.48058319091797" y="-345" type="line"/>
-      <point x="547.57293" y="-221.86444"/>
-      <point x="585.0" y="-82.1847"/>
-      <point x="585.0" y="60.0" type="curve"/>
+      <point x="579.8324934558697" y="-165.9892355681979"/>
+      <point x="585.0" y="-10.746520306154693"/>
+      <point x="585.0" y="102.75" type="curve"/>
       <point x="585" y="240" type="line"/>
       <point x="435" y="240" type="line"/>
-      <point x="435" y="60" type="line"/>
-      <point x="435.0" y="-55.8542"/>
-      <point x="404.50387" y="-169.66732"/>
+      <point x="435.0" y="102.75" type="line"/>
+      <point x="435.0" y="9.172139400480084"/>
+      <point x="433.2513971448409" y="-119.87514255948193"/>
       <point x="346.57677" y="-270.0" type="curve"/>
     </contour>
   </outline>

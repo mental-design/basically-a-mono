@@ -8,16 +8,16 @@
       <point x="334" y="0" type="line"/>
       <point x="334" y="690" type="line"/>
       <point x="653.5" y="690" type="line"/>
-      <point x="653.5" y="220.5" type="line"/>
-      <point x="653.5" y="98.80274"/>
-      <point x="752.30274" y="0.0"/>
-      <point x="874.0" y="0.0" type="curve"/>
+      <point x="653.5" y="263.25" type="line"/>
+      <point x="653.5" y="10.932254909860376"/>
+      <point x="816.4990418646723" y="7.041836432833502e-15"/>
+      <point x="916.75" y="-5.235365066354935e-15" type="curve"/>
       <point x="925" y="0" type="line"/>
       <point x="925" y="120" type="line"/>
-      <point x="874" y="120" type="line"/>
-      <point x="818.53254" y="120.0"/>
-      <point x="773.5" y="165.03254"/>
-      <point x="773.5" y="220.5" type="curve"/>
+      <point x="903.2069517577524" y="120.0" type="line"/>
+      <point x="778.5568062347508" y="120.00000000000001"/>
+      <point x="773.5" y="203.4577310189775"/>
+      <point x="773.5" y="263.25" type="curve"/>
       <point x="773.5" y="690" type="line"/>
       <point x="925" y="690" type="line"/>
       <point x="925" y="810" type="line"/>

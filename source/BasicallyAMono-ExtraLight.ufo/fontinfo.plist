@@ -93,7 +93,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>ExtraLight</string>
     <key>openTypeNameVersion</key>
-    <string>1.300</string>
+    <string>1.301</string>
     <key>openTypeOS2TypoAscender</key>
     <integer>1560</integer>
     <key>openTypeOS2TypoDescender</key>
@@ -152,7 +152,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>300</integer>
+    <integer>301</integer>
     <key>xHeight</key>
     <real>789.5121951219512</real>
   </dict>

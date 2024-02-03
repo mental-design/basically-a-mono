@@ -17,14 +17,14 @@
     </contour>
     <contour>
       <point x="511.8076171875" y="-330" type="line"/>
-      <point x="538.13812" y="-284.39424"/>
-      <point x="552.0" y="-232.661"/>
-      <point x="552.0" y="-180.0" type="curve"/>
+      <point x="551.3069056674237" y="-261.5852384812422"/>
+      <point x="552.0" y="-202.57731851918967"/>
+      <point x="552.0" y="-137.25" type="curve"/>
       <point x="552" y="-100" type="line"/>
       <point x="468" y="-100" type="line"/>
-      <point x="468" y="-180" type="line"/>
-      <point x="468.0" y="-217.91592"/>
-      <point x="458.01945" y="-255.16385"/>
+      <point x="468.0" y="-137.25" type="line"/>
+      <point x="468.0" y="-194.29863417763278"/>
+      <point x="467.5009724555771" y="-238.7413713377548"/>
       <point x="439.06149" y="-288.0" type="curve"/>
     </contour>
   </outline>

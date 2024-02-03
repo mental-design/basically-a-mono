@@ -5,26 +5,26 @@
   <outline>
     <contour>
       <point x="382.3462829589844" y="1320" type="line"/>
-      <point x="334.95138" y="1237.90963"/>
-      <point x="310.0" y="1144.7898"/>
-      <point x="310.0" y="1050.0" type="curve"/>
+      <point x="311.247568992229" y="1196.8534299752437"/>
+      <point x="310.0" y="1092.9850812816917"/>
+      <point x="310.0" y="1007.25" type="curve"/>
       <point x="310" y="930" type="line"/>
       <point x="430" y="930" type="line"/>
-      <point x="430" y="1050" type="line"/>
-      <point x="430.0" y="1123.7254"/>
-      <point x="449.40663" y="1196.15193"/>
+      <point x="430.0" y="1007.25" type="line"/>
+      <point x="430.0" y="1085.9700448003596"/>
+      <point x="430.97213275472296" y="1164.2224438112169"/>
       <point x="486.26933" y="1260.0" type="curve"/>
     </contour>
     <contour>
       <point x="662.3462829589844" y="1305" type="line"/>
-      <point x="614.95138" y="1222.90963"/>
-      <point x="590.0" y="1129.7898"/>
-      <point x="590.0" y="1035.0" type="curve"/>
+      <point x="591.247568992229" y="1181.8534299752437"/>
+      <point x="590.0" y="1077.9850812816917"/>
+      <point x="590.0" y="992.25" type="curve"/>
       <point x="590" y="930" type="line"/>
       <point x="710" y="930" type="line"/>
-      <point x="710" y="1035" type="line"/>
-      <point x="710.0" y="1108.7254"/>
-      <point x="729.40663" y="1181.15193"/>
+      <point x="710.0" y="992.25" type="line"/>
+      <point x="710.0" y="1070.9700448003596"/>
+      <point x="710.9721327547229" y="1149.2224438112169"/>
       <point x="766.26933" y="1245.0" type="curve"/>
     </contour>
   </outline>
